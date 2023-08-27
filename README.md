@@ -1,6 +1,5 @@
 # 💫 About Me:
-👦🏻I'm Safa Can Pehlivan.<br>👨🏻‍💻I'm a software engineering student.<br>👨🏻‍🎓 My graduation date is june 2023.<br>🎮I'm working on game development.<br>⚙️I'm using C# and Unity.<br>🔍I have a curious and inquisitive personality.<br>📝Learning new things gives me pleasure.<br>🧑🏼‍🤝‍🧑🏼I'm good at teamwork and agile working system.<br>⚓️I'm skilled in communication and leadership.<br>🤵I've been successfully in a scrum master role before.<br>🙏I'm open to job offers, my primary goal is to gain experience, not a high salary.
-
+Ben Sefa Can Pehlivan, yaşım 23, yazılım mühendisliği mezunuyum. Game Development alanında tam zamanlı olarak çalışmaktayım. Çalıştığım için bu github'ımı çok aktif kullanamıyorum fakat ara ara evde yaptığım projeleri veya kod yapılarını buraya yüklemeye çalışıyorum bakmak isterseniz repolarıma göz atabilirsiniz.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sefacanpehlivan4177) 
