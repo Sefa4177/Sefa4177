@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ben Sefa Can Pehlivan, yaşım 23, Yazılım Mühendisliği mezunuyum. Game Development alanında tam zamanlı olarak çalışmaktayım. Çalıştığım için bu github'ımı çok aktif kullanamıyorum fakat ara ara evde yaptığım projeleri veya kod yapılarını buraya yüklemeye çalışıyorum bakmak isterseniz repolarıma göz atabilirsiniz.
+I am Safa Can Pehlivan, a graduate in Software Engineering. I am proficient in the C# programming language. I can comfortably use other programming languages and technologies with ease, often conducting research when necessary. I have a strong understanding of software principles such as Object-Oriented Programming and SOLID. I write clean and sustainable code. I have worked exclusively with the Agile methodology in all of my jobs, making me well-versed in Agile practices. Currently, I am enhancing my skills on .NET Core, and I am open to job opportunities in this field.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sefacanpehlivan4177) 
