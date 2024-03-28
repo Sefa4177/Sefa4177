@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Safa Can Pehlivan, a graduate in Software Engineering. I am proficient in the C# programming language. I can comfortably use other programming languages and technologies with ease, often conducting research when necessary. I have a strong understanding of software principles such as Object-Oriented Programming and SOLID. I write clean and sustainable code. I have worked exclusively with the Agile methodology in all of my jobs, making me well-versed in Agile practices. Currently, I am enhancing my skills on .NET Core, and I am open to job opportunities in this field.
+As a software engineer who always enjoys learning new things I am improving myself in backend development (Net Core / Node.js). Skills I acquired and projects I did on the rest of my profile. To put it simply, I write maintainable, testable and clean code. I am open to any job offer that will improve me in my field, Thanks.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sefacanpehlivan4177) 
